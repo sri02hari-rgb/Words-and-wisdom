@@ -1,0 +1,6 @@
+{
+  "name": "Words and Wisdom – Spoken English Academy, Saligramam",
+  "description": "Premier Spoken English & Communication Academy in Saligramam, Chennai. Practical spoken English, interview skills, grammar foundation, and public speaking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
